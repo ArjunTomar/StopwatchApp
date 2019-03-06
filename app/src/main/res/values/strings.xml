@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StopwatchApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="Start">START</string>
+    <string name="Stop">STOP</string>
+    <string name="Reset">RESET</string>
+</resources>
